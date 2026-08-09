@@ -1,0 +1,37 @@
+# Prompt Engineering Notes
+
+A collection of AI prompts designed to generate clear, structured, and useful B.Tech semester notes and study material.
+
+## 📚 Notes Generation Prompt
+
+This project contains a reusable AI prompt that can generate study notes for any subject.
+
+### 🎯 Purpose
+
+The prompt helps students create:
+
+* Easy-to-understand notes
+* Important concepts and definitions
+* Examples and explanations
+* Key points for revision
+* Exam-oriented study material
+
+### 🧠 How to Use
+
+1. Open the **Notes Generation Prompt** file.
+2. Copy the prompt.
+3. Enter the name of your subject and topic.
+4. Paste the prompt into an AI tool such as ChatGPT.
+5. Generate and review the notes.
+6. Use the generated material for learning and revision.
+
+### 📂 Project Files
+
+* `notes generation prompt for any subject` — Main AI prompt for generating notes for different subjects.
+* `README.md` — Project description and instructions.
+
+## 👩‍💻 Student Project
+
+**B.Tech 1st Semester — Prompt Engineering**
+
+This repository demonstrates how prompt engineering can be used to create useful academic study material with AI.
