@@ -1,0 +1,27 @@
+# Prompt Engineering Notes
+
+A collection of prompts, techniques, and examples for generating
+clear and structured B.Tech study notes using AI tools.
+
+## Purpose
+
+This repository contains reusable prompts that can be used with
+AI tools such as ChatGPT, Claude, Gemini, and other AI assistants.
+
+## Main Prompt
+
+The main notes-generation prompt is available here:
+
+- `notes-generation-prompt.md`
+
+## Goals
+
+- Generate structured study notes
+- Make difficult topics easier to understand
+- Create exam-oriented revision material
+- Generate practice questions
+- Improve the quality of AI-generated educational content
+
+## Student
+
+B.Tech 1st Semester
